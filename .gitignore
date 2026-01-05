@@ -1,0 +1,67 @@
+# Dependencies
+node_modules/
+venv/
+env/
+.venv/
+Hotel_Dashboard/venv/
+Hotel_Dashboard/Hotel_Dashboard/venv/
+
+# Next.js
+.next/
+out/
+build/
+dist/
+apps/*/next/
+apps/*/out/
+apps/*/build/
+apps/*/dist/
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env*.local
+
+# Generated data
+data/
+*.csv
+Hotel_Dashboard/data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.pyc
+
+# Firebase
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+*.pem
+.cache/
+
