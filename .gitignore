@@ -21,6 +21,10 @@ apps/*/dist/
 .env.local
 .env.production
 .env*.local
+apps/*/.env
+apps/*/.env.local
+apps/*/.env.production
+.env*.local
 
 # Generated data
 data/
